@@ -1,6 +1,6 @@
 # 🎨 Faster Expressive Shapes
 
-[![Watch the video](h)](https://youtu.be/sQeww8KHmU4)
+[![Watch the video](https://raw.githubusercontent.com/FasterSoftwareDeveloper/Faster-Expressive-Shapes-In-Sketchware-Pro/refs/heads/main/thumbnail.png)](https://youtu.be/sQeww8KHmU4)
 
 > A Material 3–style **expressive shape morphing view** for Android.  
 > Built with ❤️ by Faster Software Developer
